@@ -16,9 +16,8 @@ Computing, DFIR, “Root of Trust'' Validation (SecureBoot-Apple,UEFI & BIOS Sec
 Reverse engineering, Hardware Validation. I Also dealt and focused on Networking, both<br>
 client side and server, vpn’s protocols and so on..<br>
 # Notable achievements:
-• No 17 from Microsoft’s Top 100 Hackers of 2018.<br>
-(https://blogs.technet.microsoft.com/msrc/2018/08/08/microsofts-top-100-security-res
-earchers-black-hat-2018-edition/)
+• No 17 from Microsoft’s Top 100 Hackers of 2018<br>
+(https://blogs.technet.microsoft.com/msrc/2018/08/08/microsofts-top-100-security-researchers-black-hat-2018-edition/).<br>
 • acknowledged by apple for disclosing security issues.<br>
 (https://support.apple.com/en-us/HT210355)<br>
 • acknowledged by google for disclosing security issues<br>
