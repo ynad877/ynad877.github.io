@@ -1,63 +1,57 @@
 # Curriculum Vitae
-Yeivin Nadav
-Contact and personal information:
-• Born in Israel 33 years of age.
-• Currently Located at Petach tikva, israel.
-• Current email address: sidt87@keemail.me.
-• +972 (0) 521237440
-# Formal education and a selection of public work
-experience:
-• 2015 – 2017: BSc Chemistry & Mathematics at the Hebrew University of Jerusalem.
-• 2016 ‘Azure PCR’ Software developer - Mainly QA, dealing with machine learning
-validation. (http://diagnostics.ai/)
-• 2016 – 2019 Independent Security Researcher focuses on high end vulnerability research,
-fuzzing, Tooling, Exploit development, Reverse engineering and Mitigation Bypass.
-• 2019 - 2020 Private consult Epica Tech LTD, Security Research (signed on NDA), i also
+Contact and personal information:<br>
+• Born in Israel 33 years of age.<br>
+• Currently Located at Petach tikva, israel.<br>
+• Current email address: sidt87@keemail.me.<br>
+• +972 (0) 521237440<br>
+# Formal education and a selection of public work experience:
+• 2015 – 2017: BSc Chemistry & Mathematics at the Hebrew University of Jerusalem.<br>
+• 2016 ‘Azure PCR’ Software developer - Mainly QA, dealing with machine learning validation. (http://diagnostics.ai/)<br>
+• 2016 – 2019 Independent Security Researcher focuses on high end vulnerability research,<br>
+fuzzing, Tooling, Exploit development, Reverse engineering and Mitigation Bypass.<br>
+• 2019 - 2021 Private consult Epica Tech LTD, Security Research (signed on NDA), i also<br>
 managed a little team and was a tutor to several Other employee’s.
-• 2020 & forward: General Computing research and consult: focuses on Hardware, Secure
-Computing, DFIR, “Root of Trust'' Validation (SecureBoot-Apple,UEFI & BIOS Security,
-Reverse engineering, Hardware Validation. I Also dealt and focused on Networking, both
-client side and server, vpn’s protocols and so on..
+• 2020 & forward: General Computing research and consult: focuses on Hardware, Secure<br>
+Computing, DFIR, “Root of Trust'' Validation (SecureBoot-Apple,UEFI & BIOS Security,<br>
+Reverse engineering, Hardware Validation. I Also dealt and focused on Networking, both<br>
+client side and server, vpn’s protocols and so on..<br>
 # Notable achievements:
-• No 17 from Microsoft’s Top 100 Hackers of 2018.
+• No 17 from Microsoft’s Top 100 Hackers of 2018.<br>
 (https://blogs.technet.microsoft.com/msrc/2018/08/08/microsofts-top-100-security-res
 earchers-black-hat-2018-edition/)
-• acknowledged by apple for disclosing security issues.
-(https://support.apple.com/en-us/HT210355)
-• acknowledged by google for disclosing security issues
-(https://bughunter.withgoogle.com/profile/fe386863-fdae-4164-bf31-b13d25d4b8e9).
-• ZDI SILVER status for 2019.
-(https://www.zerodayinitiative.com/about/benefits/)
+• acknowledged by apple for disclosing security issues.<br>
+(https://support.apple.com/en-us/HT210355)<br>
+• acknowledged by google for disclosing security issues<br>
+(https://bughunter.withgoogle.com/profile/fe386863-fdae-4164-bf31-b13d25d4b8e9).<br>
+• ZDI SILVER status for 2019.<br>
+(https://www.zerodayinitiative.com/about/benefits/)<br>
 # Selection of (used to be) Public writeup:
-• CVE-2019-8658 - Pwning Webkit.
-• MSRC-52108: Windows SBX and privesc via Race Conditions in the windows
-kernel.
-• CVE-2019-8685: Safari bugs (https://github.com/ynad877/SafariTour)
-• Messing around with the google fraud detection system.
-• ZDI-18-428: Pwning MsEdge.
-• ROP: Pwn the Windows Kernel with return oriented programming
+• CVE-2019-8658 - Pwning Webkit.<br>
+• MSRC-52108: Windows SBX and privesc via Race Conditions in the windows kernel.<br>
+• CVE-2019-8685: Safari bugs (https://github.com/ynad877/SafariTour)<br>
+• Messing around with the google fraud detection system.<br>
+• ZDI-18-428: Pwning MsEdge.<br>
+• ROP: Pwn the Windows Kernel with return oriented programming<br>
 (https://github.com/ynad877/demos/blob/master/Win10/SmepByPassWin10x64build.1
-6281Rs3/README.md).
-• UAC Backdoors: about bypassing user account control on microsoft windows.
-• kbMon: Writing A Ring O keylogger.
-Selection of public vulnerability research:
-(i should add that since I have found a lot more issues)
-• (CVE-2019-8669) #2 Apple Safari, use of uninitialized stack variables leads to RCE.
-• (CVE-2019-8669) #1 Apple Safari, Compiler logic error leads to RCE.
-• (CVE-2019-8658) Apple Safari, improper binding between the compiler and the dom
-engine leads to UXSS.
-• (MSRC-52108) Microsoft Windows, Race Condition with Win32k leads to EOP.
-• (CVE-2019-8685) #1 Apple Safari, Compiler logic error leads to RCE.
-• (issue 126413103) ‘google.com’, ‘googleadservices.com’ - fraud detection design issue.
-• (CVE-2018-8251) Microsoft Windows, Media Foundation, UAF - RCE Vulnerability.
-• (CVE-2018-8274) Microsoft Edge, UAF - RCE Vulnerability.
-• (ZDI-18-577) Microsoft Edge, Type Confusion - RCE Vulnerability.
-• (CVE-2018-8123) Microsoft Edge, UAF - Information Disclosure Vulnerability.
-• (CVE-2018-1021) Microsoft Edge, OOB - Information Disclosure Vulnerability.
-• (CVE-2018-0763) Microsoft Edge, Type Confusion - Information Disclosure
-Vulnerability.
-• (CVE-2017-15303) CPUID CPU-Z Kernel Driver, OOB - LPE.
-• (CVE-2017-15302) CPUID CPU-Z Kernel Driver, improper access permissions - LPE.
+6281Rs3/README.md).<br>
+• UAC Backdoors: about bypassing user account control on microsoft windows.<br>
+• kbMon: Writing A Ring O keylogger.<br>
+# Selection of public vulnerability research:
+(i should add that since I have found a lot more issues)<br>
+• (CVE-2019-8669) #2 Apple Safari, use of uninitialized stack variables leads to RCE.<br>
+• (CVE-2019-8669) #1 Apple Safari, Compiler logic error leads to RCE.<br>
+• (CVE-2019-8658) Apple Safari, improper binding between the compiler and the dom engine leads to UXSS.<br>
+• (MSRC-52108) Microsoft Windows, Race Condition with Win32k leads to EOP.<br>
+• (CVE-2019-8685) #1 Apple Safari, Compiler logic error leads to RCE.<br>
+• (issue 126413103) ‘google.com’, ‘googleadservices.com’ - fraud detection design issue.<br>
+• (CVE-2018-8251) Microsoft Windows, Media Foundation, UAF - RCE Vulnerability.<br>
+• (CVE-2018-8274) Microsoft Edge, UAF - RCE Vulnerability.<br>
+• (ZDI-18-577) Microsoft Edge, Type Confusion - RCE Vulnerability.<br>
+• (CVE-2018-8123) Microsoft Edge, UAF - Information Disclosure Vulnerability.<br>
+• (CVE-2018-1021) Microsoft Edge, OOB - Information Disclosure Vulnerability.<br>
+• (CVE-2018-0763) Microsoft Edge, Type Confusion - Information Disclosure Vulnerability.<br>
+• (CVE-2017-15303) CPUID CPU-Z Kernel Driver, OOB - LPE.<br>
+• (CVE-2017-15302) CPUID CPU-Z Kernel Driver, improper access permissions - LPE.<br>
 # Introduction and a personal note:
 I consider myself an autodidact in the field of computer science with a strong interest for
 Secure computing, program analysis and reverse engineering. I have worked with companies
