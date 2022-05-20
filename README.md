@@ -30,8 +30,7 @@ client side and server, vpn’s protocols and so on..<br>
 • Messing around with the google fraud detection system.<br>
 • ZDI-18-428: Pwning MsEdge.<br>
 • ROP: Pwn the Windows Kernel with return oriented programming<br>
-(https://github.com/ynad877/demos/blob/master/Win10/SmepByPassWin10x64build.1
-6281Rs3/README.md).<br>
+(https://github.com/ynad877/demos/blob/master/Win10/SmepByPassWin10x64build.16281Rs3/README.md).<br>
 • UAC Backdoors: about bypassing user account control on microsoft windows.<br>
 • kbMon: Writing A Ring O keylogger.<br>
 # Selection of public vulnerability research:
