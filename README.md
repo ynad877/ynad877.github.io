@@ -1,9 +1,8 @@
-# Curriculum Vitae
-Contact and personal information:<br>
+# About me
+# Contact and personal information:
 • Born in Israel 33 years of age.<br>
 • Currently Located at Petach tikva, israel.<br>
 • Current email address: sidt87@keemail.me.<br>
-• +972 (0) 521237440<br>
 # Formal education and a selection of public work experience:
 • 2015 – 2017: BSc Chemistry & Mathematics at the Hebrew University of Jerusalem.<br>
 • 2016 ‘Azure PCR’ Software developer - Mainly QA, dealing with machine learning validation. (http://diagnostics.ai/)<br>
