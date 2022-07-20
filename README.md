@@ -10,9 +10,9 @@
 fuzzing, Tooling, Exploit development, Reverse engineering and Mitigation Bypass.<br>
 • 2019 - 2021 Private consult Epica Tech LTD, Security Research (signed on NDA), i also<br>
 managed a little team and was a tutor to several Other employee’s.<br>
-• 2021 & forward: General Computing research and consult: focuses on Hardware, Secure<br>
+• 2021 & forward: General Computing research and consult: Secure<br>
 Computing, DFIR, “Root of Trust'' Validation (SecureBoot-Apple,UEFI & BIOS Security,<br>
-Reverse engineering, Hardware Validation. I Also dealt and focused on Networking, both<br>
+Reverse engineering. I Also dealt and focused on Networking, both<br>
 client side and server, vpn’s protocols and so on..<br>
 # Notable achievements:
 • No 17 from Microsoft’s Top 100 Hackers of 2018<br>
